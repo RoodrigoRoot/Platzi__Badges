@@ -1,0 +1,11 @@
+.container-Hero{
+    background: url('../../images/stars.svg'), #1B1B25;
+    height: 35.3rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item_Hero{
+    margin: 25px;
+}
